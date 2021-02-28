@@ -19,14 +19,10 @@ We have 3 main API's:
 - Xcode 12.0+
 
 # Install
-### SPM:
-```
-dependencies: [
-  .package(
-      url:  "https://github.com/LA-Labs/LookKit_Package.git",
-      .branch("master")
-  )
-]
+### Cocoapod:
+CocoaPods is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your Podfile:
+```ruby
+pod 'LookKit' 
 ```
 ## Import
 ```swift 
