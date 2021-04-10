@@ -6,7 +6,7 @@
 
 # Install
 ### Cocoapod:
-CocoaPods is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your Podfile:
+CocoaPods is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate LookKit into your Xcode project using CocoaPods, specify it in your Podfile:
 ```ruby
 pod 'LookKit' 
 ```
@@ -14,3 +14,6 @@ pod 'LookKit'
 ```swift 
 import LookKit
 ```
+
+## Package
+https://github.com/LA-Labs/LookKit
